@@ -1,0 +1,39 @@
+.container {
+    width: 364px;
+    margin: 100px auto 0 auto;
+}
+.yellow {
+	background-color: #ffeb6a;
+}
+.black {
+	background-color: #212121;
+}
+.blue {
+	background-color: #094984;
+}
+.red {
+	background-color: red;
+}
+table {
+	border-collapse: collapse;
+	border: 5px solid #000;
+}
+td {
+	border: 5px solid #000;	
+	width: 45px;
+	height: 45px;
+}
+.r3 {
+	height: 100px
+}
+.r5 {
+	height: 100px;
+}
+
+.r8 td {
+	height: 25px;
+}
+.r9 td {
+	height: 25px;
+	border: 0;
+}
